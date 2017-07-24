@@ -2,7 +2,7 @@
     "images":[{
         "name":"floor.jpg",
         "uuid":"74C4A6E9-BFE3-4F71-99B4-1F539C8C0808",
-        "url":"https://raw.githubusercontent.com/dianadfonseca/slantvr/master/floor.jpg"
+        "url":"floor.jpg"
     }],
     "object":{
         "uuid":"C58CD878-96F6-4DF5-819F-A9B365BB8F59",
